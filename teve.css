@@ -42,3 +42,8 @@ h1{
 	border-bottom: 3px solid orange;
 }
 
+#romhanyi {
+	text-align: right;
+	font-style: italic;
+	font-size: 11px;
+}
