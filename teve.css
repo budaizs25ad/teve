@@ -38,7 +38,7 @@ input {
 	width: 30%;
 }
 
-h1{
+h1 {
 	border-bottom: 3px solid orange;
 }
 
@@ -46,4 +46,25 @@ h1{
 	text-align: right;
 	font-style: italic;
 	font-size: 11px;
+}
+
+.tevekep {
+	float: right;
+}
+
+#jobbra {
+	text-align: right;
+}
+
+a {
+	color: orange;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+a:hover {
+	color: white;
+	background-color: yellowgreen;
+	text-decoration: underline;
 }
